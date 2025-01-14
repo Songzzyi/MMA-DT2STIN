@@ -1,7 +1,7 @@
 # MMA-DT2STIN
 Through this repository, we provide readers with some basic frameworks, tools, and use cases about MMA.
 
-We will continue to update later~
+We will continue to update later,If there is something wrong, we welcome criticism and correction!
 
 
 ## Scenario 1: The container communicates with an external host
