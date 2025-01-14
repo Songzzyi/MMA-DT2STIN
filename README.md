@@ -8,7 +8,7 @@ Through this repository, we provide readers with some basic frameworks, tools, a
 **Ubuntu Host A:**
 
 - Wired network card `enx207bd2bd5ad5` with IP: `192.168.2.44/24`
-- OVS virtual switch: `192.188.1.1/16`
+- virtual NIC on the ovs: `192.188.1.1/16`
 - Container network: `192.188.0.0/16`
 
 **Windows Host B:**
